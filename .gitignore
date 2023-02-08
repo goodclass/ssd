@@ -1,0 +1,19 @@
+# ignore map, miou, datasets
+map_out/
+miou_out/
+VOCdevkit/
+datasets/
+Medical_Datasets/
+lfw/
+logs/
+model_data/
+.temp_map_out/
+.idea/
+.DS_Store
+2007_train.txt
+2007_val.txt
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
